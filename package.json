@@ -1,0 +1,15 @@
+{
+  "name": "mongochat",
+  "version": "1.0.0",
+  "description": "Simple Chat App using Sockets",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Kamesh Kotwani",
+  "license": "No Lis",
+  "dependencies": {
+    "mongodb": "^2.2.36",
+    "socket.io": "^2.2.0"
+  }
+}
