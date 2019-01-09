@@ -6,7 +6,7 @@ A Simple Chat App using MongoDB and Socket.io
 ## Installation
 `npm insatll`
 
-#To Run the App
+# To Run the App
 `npm start` 
 
 ### After installation of dependencies open index.html
