@@ -9,7 +9,7 @@
   "author": "Kamesh Kotwani",
   "license": "No Lis",
   "dependencies": {
-    "mongodb": "^3.1.13",
+    "mongodb": "^3.7.4",
     "socket.io": "^2.2.0"
   }
 }
